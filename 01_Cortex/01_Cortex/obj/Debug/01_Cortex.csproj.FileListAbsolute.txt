@@ -1,0 +1,15 @@
+D:\Dev\Cortex\01_Cortex\01_Cortex\bin\Debug\01_Cortex.exe.config
+D:\Dev\Cortex\01_Cortex\01_Cortex\bin\Debug\01_Cortex.exe
+D:\Dev\Cortex\01_Cortex\01_Cortex\bin\Debug\01_Cortex.pdb
+D:\Dev\Cortex\01_Cortex\01_Cortex\obj\Debug\01_Cortex.csprojAssemblyReference.cache
+D:\Dev\Cortex\01_Cortex\01_Cortex\obj\Debug\MainWindow.g.cs
+D:\Dev\Cortex\01_Cortex\01_Cortex\obj\Debug\App.g.cs
+D:\Dev\Cortex\01_Cortex\01_Cortex\obj\Debug\01_Cortex_MarkupCompile.cache
+D:\Dev\Cortex\01_Cortex\01_Cortex\obj\Debug\01_Cortex_MarkupCompile.lref
+D:\Dev\Cortex\01_Cortex\01_Cortex\obj\Debug\MainWindow.baml
+D:\Dev\Cortex\01_Cortex\01_Cortex\obj\Debug\01_Cortex.g.resources
+D:\Dev\Cortex\01_Cortex\01_Cortex\obj\Debug\_01_Cortex.Properties.Resources.resources
+D:\Dev\Cortex\01_Cortex\01_Cortex\obj\Debug\01_Cortex.csproj.GenerateResource.cache
+D:\Dev\Cortex\01_Cortex\01_Cortex\obj\Debug\01_Cortex.csproj.CoreCompileInputs.cache
+D:\Dev\Cortex\01_Cortex\01_Cortex\obj\Debug\01_Cortex.exe
+D:\Dev\Cortex\01_Cortex\01_Cortex\obj\Debug\01_Cortex.pdb
