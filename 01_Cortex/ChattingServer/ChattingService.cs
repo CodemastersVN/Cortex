@@ -8,9 +8,12 @@ using System.Text;
 
 namespace ChattingServer
 {
-    // NOTE: You can use the "Rename" command on the "Refactor" menu to change the class name "ChattingService" in both code and config file together.
+    [ServiceBehavior(ConcurrencyMode = ConcurrencyMode.Multiple, InstanceContextMode = InstanceContextMode.Single)]
     public class ChattingService : IChattingService
     {
-       
+        public void Test(string value)
+        {
+            Console.WriteLine(value);
+        }
     }
 }

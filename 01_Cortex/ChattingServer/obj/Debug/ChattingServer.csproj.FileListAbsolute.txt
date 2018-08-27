@@ -1,0 +1,10 @@
+D:\Dev\Cortex\01_Cortex\ChattingServer\obj\Debug\ChattingServer.csprojAssemblyReference.cache
+D:\Dev\Cortex\01_Cortex\ChattingServer\obj\Debug\ChattingServer.csproj.CoreCompileInputs.cache
+D:\Dev\Cortex\01_Cortex\ChattingServer\bin\Debug\ChattingServer.exe.config
+D:\Dev\Cortex\01_Cortex\ChattingServer\bin\Debug\ChattingServer.exe
+D:\Dev\Cortex\01_Cortex\ChattingServer\bin\Debug\ChattingServer.pdb
+D:\Dev\Cortex\01_Cortex\ChattingServer\bin\Debug\ChattingInterfaces.dll
+D:\Dev\Cortex\01_Cortex\ChattingServer\bin\Debug\ChattingInterfaces.pdb
+D:\Dev\Cortex\01_Cortex\ChattingServer\obj\Debug\ChattingServer.csproj.CopyComplete
+D:\Dev\Cortex\01_Cortex\ChattingServer\obj\Debug\ChattingServer.exe
+D:\Dev\Cortex\01_Cortex\ChattingServer\obj\Debug\ChattingServer.pdb

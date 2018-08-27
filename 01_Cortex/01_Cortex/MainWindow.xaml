@@ -17,5 +17,6 @@
         <Button x:Name="NameOfUser" Content="User" HorizontalAlignment="Left" Height="27" Margin="10,35.815,0,0" VerticalAlignment="Top" Width="191"/>
         <TextBox x:Name="MessageTyping" Height="46" Margin="253.654,0,158,10" TextWrapping="Wrap" Text="Type:" VerticalAlignment="Bottom"/>
         <Button x:Name="SendButton" Content="Sent" HorizontalAlignment="Right" Height="46" Margin="0,0,10,10" VerticalAlignment="Bottom" Width="143"/>
+        <Button Content="Test" HorizontalAlignment="Left" Height="32" Margin="19,95,0,0" VerticalAlignment="Top" Width="106" Click="Button_Click"/>
     </Grid>
 </Window>
